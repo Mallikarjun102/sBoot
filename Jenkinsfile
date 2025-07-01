@@ -2,7 +2,7 @@ pipeline {
 
 	agent any
 	tools {
-		maven 'm360'
+		maven 'm 3.6.0'
 	}
 
 	stages {
